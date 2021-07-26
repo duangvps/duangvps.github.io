@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://duangvps.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-07-26T06:42:56.235Z</updated>
+    <title>Duang科学上网导航</title>
+    <updated>2021-07-26T06:57:04.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://duangvps.github.io"/>
     <link rel="self" href="https://duangvps.github.io/atom.xml"/>
-    <subtitle>Duang科学上网导航</subtitle>
+    <subtitle>让人人都能低价高质量的科学上网</subtitle>
     <logo>https://duangvps.github.io/images/avatar.png</logo>
     <icon>https://duangvps.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, Duang科学上网导航</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
         <id>https://duangvps.github.io/post/hello-gridea/</id>
